@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Baggage Fee Estimator</string>
+    <string name="about_title">About</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_about">About</string>
+
+    <string name="header_greeting">Planning to fly?</string>
+    <string name="instructions">Enter your checked baggage details below. Free allowance: Economy 20 kg, Business 40 kg. An 8% service tax is added to the excess charge.</string>
+    <string name="hint_weight">Baggage weight (kg)</string>
+    <string name="hint_rate">Excess rate per kg (RM)</string>
+    <string name="label_class">Ticket class</string>
+    <string name="economy">Economy (20 kg)</string>
+    <string name="business">Business (40 kg)</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_reset">Reset</string>
+
+    <string name="result_title">Result</string>
+    <string name="result_excess">Excess baggage weight: %1$.2f kg</string>
+    <string name="result_charge">Excess baggage charge: RM %1$.2f</string>
+    <string name="result_total">Total amount payable: RM %1$.2f</string>
+
+    <string name="err_weight_empty">Please enter the baggage weight</string>
+    <string name="err_rate_empty">Please enter the rate per kg</string>
+    <string name="err_invalid">Enter a valid number</string>
+    <string name="err_negative">Value cannot be negative</string>
+    <string name="err_class">Please select a ticket class</string>
+
+    <string name="share_subject">Baggage Fee Estimator</string>
+    <string name="share_text">Check out this excess baggage fee estimator app: %1$s</string>
+    <string name="share_chooser">Share app via</string>
+
+    <string name="about_name">Name: Muhammad Afnan Bin Mohd Abdul Rahim</string>
+    <string name="about_student">Student No: 2024244492</string>
+    <string name="about_group">Group: RCDCS2405B</string>
+    <string name="about_programme">Programme Code: CDCS240</string>
+    <string name="about_info">This app estimates the excess baggage fee for air travel based on baggage weight, ticket class and rate per kg.</string>
+    <string name="about_copyright">© 2026 Muhammad Afnan Bin Mohd Abdul Rahim. All rights reserved.</string>
+    <string name="about_website">https://github.com/afnanrahim04/BaggageFeeEstimator</string>
+    <string name="github_url">https://github.com/afnanrahim04/BaggageFeeEstimator</string>
+</resources>

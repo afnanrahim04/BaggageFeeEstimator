@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="header_end">#4B35C9</color>
+    <color name="primary">#1D5FE0</color>        <!-- blue: action bar, buttons -->
+    <color name="primary_dark">#3A2BB5</color>   <!-- indigo: status bar -->
+    <color name="accent">#FF7A1A</color>         <!-- orange: reset button, total -->
+    <color name="background">#F2F5FB</color>     <!-- pale blue-grey screen -->
+    <color name="card">#FFFFFF</color>
+    <color name="text_dark">#1B1F3B</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
